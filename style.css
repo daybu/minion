@@ -1,0 +1,161 @@
+.header-part{}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+
+.header-area{}
+.logo {
+    width: 20%;
+    float: left;
+    margin-top: 33px;
+}
+.logo a img{}
+.menu {
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+
+.menu ul {
+    list-style: none;
+}
+.menu ul li {
+    display: inline-block;
+    margin-left: 70px;
+}
+.menu ul li a {
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    padding: 20px 0;
+    display: inline-block;
+}
+.gallery-area img{
+	width: 100%;
+}
+
+.article-part{}
+.article-container {
+    width: 950px;
+    margin: auto;
+}
+.article-area{}
+.article-area h4 {
+    margin: 100px 0 50px 0;
+    color: gray;
+    font-size: 20px;
+}
+.article-area h1 {
+    color: gray;
+    font-size: 25px;
+}
+.article-area p {
+    color: gray;
+    line-height: 24px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.article-area a {
+    text-decoration: none;
+    color: gray;
+    margin-bottom: 50px;
+    display: block;
+}
+.box-area {
+    width: 50%;
+    float: left;
+    padding: 0 30px;
+    box-sizing: border-box;
+    margin-top: 18px;
+}
+
+.box-area img {
+    width: 100%;
+}
+.box-area h4{
+	color: gray;
+}
+.box-area h1 {
+    color: gray;
+}
+.box-area p {
+    color: #6f6666;
+    text-align: justify;
+}
+.from-container{}
+
+.mail{
+    width: 1200px;
+    margin:  auto;
+    text-align:  center;
+    overflow:  hidden;
+    background: #dcd7d7;
+    padding-bottom: 25px;
+}
+.mail-part{}
+
+.container2 {
+    width: 950px;
+    margin: auto;
+}
+.load{}
+.container-3 {
+    width: 950px;
+    margin: auto;
+    text-align: center;
+    color: gray;
+    
+}
+.load-area a h3{
+    text-decoration: none;
+    color: gray;
+}
+.footer-area {
+    background: #eae6e6;
+    width: 100%;
+    height: 100px;
+}
+
+.f-left {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.f-right {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.f-right ul {
+    text-align: left;
+    list-style: none;
+    float: right;
+    padding: 28px;
+}
+
+.f-right ul li {
+    display: inline-block;
+    margin-left: 10px;
+}
+.f-right ul li a {
+    text-decoration: none;
+    color: gray;
+}
+.f-left{}
+.f-left ul {
+    text-align: left;
+    list-style: none;
+    float: left;
+    padding: 29px;
+}
+.f-left ul li {
+    display: inline;
+    margin-right: 39px;
+}
+.f-left ul li a {
+    text-decoration: none;
+    color: gray;
+}
